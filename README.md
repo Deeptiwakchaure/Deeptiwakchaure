@@ -23,7 +23,7 @@ Hello! I’m Deepti, an engineering student passionate about building impactful 
 <br/>
 
 <div align="center">
-  <a href="mailto:deeptiwakchaure@example.com">
+  <a href="mailto:deeptiwakchaure@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/deeptiwakchaure" target="_blank">
