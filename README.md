@@ -10,13 +10,13 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+;+I'm+Deepti+Wakchaure!☆;" />
 </h1>
 
-<h3 align="center">Final-year EXTC Student | Tech Enthusiast | Embedded Systems | AI & Automation | Digital Creator  
+<h3 align="center">Tech Enthusiast | Embedded Systems | AIML & Automation | Digital Creator | IoT
 <br/>
 
 <div align="center">
   </div>
 ✿ 
-Hello! I’m Deepti, an engineering student passionate about building impactful tech solutions that blend hardware, software, and creativity. From microcontroller-based automation to AI-powered tools, my projects span embedded systems, machine learning, and Robotics.
+Hello! I’m Deepti, an engineering student passionate about building impactful tech solutions that blend hardware, software, and creativity. From microcontroller-based automation to AI-powered tools, my projects span embedded systems, machine learning, and Robotics. I also enjoy working with web technologies.
 
 </div>
 
