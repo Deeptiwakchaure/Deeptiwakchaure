@@ -26,7 +26,7 @@ Hello! I’m Deepti, an engineering student passionate about building impactful 
   <a href="mailto: deeptiwakchaure@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/deepti-wakchaure" target="_blank">
+  <a href="https://www.linkedin.com/in/deepti-wakchaure-657498230" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://deeptiwakchaure.me" target="_blank">
