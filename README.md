@@ -29,7 +29,7 @@ Hello! I’m Deepti, an engineering student passionate about building impactful 
   <a href="https://www.linkedin.com/in/deepti-wakchaure-657498230" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://deeptiwakchaure.me" target="_blank">
+  <a href="https://dee-portfolio-dev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
