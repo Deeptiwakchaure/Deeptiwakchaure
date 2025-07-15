@@ -49,15 +49,6 @@
 
 ---
 
-<!-- Projects -->
-<h2 align="center"> Featured Projects</h2>
-<ul>
-  <li><strong>RFID Access System</strong> — ESP32 + RC522 with Google Sheets integration</li>
-  <li><strong>YouTube Note Maker</strong> — Summarizes videos into AI-generated notes (WIP)</li>
-  <li><strong>Comb Filter (50Hz)</strong> — FIR filter using MATLAB for biomedical noise</li>
-  <li><strong>Traffic Light Simulator</strong> — GUI-based Python simulation</li>
-  <li><strong>Diabetes Detection System</strong> — ML model to predict diabetes risk using medical parameters</li>
-</ul>
 
 ---
 
