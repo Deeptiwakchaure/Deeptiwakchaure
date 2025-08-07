@@ -76,12 +76,4 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Deeptiwakchaure&theme=dracula&margin-w=15&no-bg=true&no-frame=true" />
 </div>
-<!-- Commit Graph -->
-<h2 align="center">📊 Commit Activity</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deeptiwakchaure&theme=tokyonight&hide_border=true&area=true&radius=10" alt="Commit Activity Graph">
-</div>
-
-<br/>
-<!-- Commit Graph (T-shaped) -->
 
