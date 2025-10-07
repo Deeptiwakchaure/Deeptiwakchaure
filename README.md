@@ -73,26 +73,30 @@
 
 <!-- Contribution Graph -->
 <div align="center">
-  <h2>🐍 GitHub Contributions</h2>
+  <h2> GitHub Contributions</h2>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation of contributions" />
 </div>
 
 ---
 
-<!-- GitHub Stats -->
-<h2 align="center">📈 GitHub Stats</h2>
+<!--  GitHub Stats Section -->
+<h2 align="center"> GitHub Insights</h2>
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deeptiwakchaure&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Deeptiwakchaure&theme=tokyonight&border_radius=10" />
+
+  <!-- Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Deeptiwakchaure&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&border_radius=10&bg_color=0d1117&title_color=ff79c6&icon_color=ff79c6" height="180em" />
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=Deeptiwakchaure&theme=tokyonight&hide_border=true&border_radius=10&background=0d1117&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6" height="180em" />
+
   <br/><br/>
-  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeptiwakchaure&layout=compact&theme=tokyonight&border_radius=10" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeptiwakchaure&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff79c6&border_radius=10" width="500" />
+
 </div>
+
 
 ---
-
-<!-- GitHub Trophies -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Deeptiwakchaure&theme=dracula&margin-w=15&no-bg=true&no-frame=true" />
-</div>
 
