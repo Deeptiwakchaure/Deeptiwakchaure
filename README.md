@@ -69,7 +69,7 @@
 ---
 
 
----
+
 
 <!-- Contribution Graph -->
 <div align="center">
@@ -92,10 +92,7 @@
 
   <br/><br/>
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeptiwakchaure&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff79c6&border_radius=10" width="500" />
 
-</div>
 
 
 ---
