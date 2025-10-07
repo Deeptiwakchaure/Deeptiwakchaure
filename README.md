@@ -9,26 +9,45 @@
 </h1>
 
 <h3 align="center">
-  Tech Enthusiast | Embedded Systems | AIML & Automation | Digital Creator | IoT
+ Software Developer | UI/UX Designer | Embedded & IoT Engineer | Digital Creator
 </h3>
 
 <div align="center">
-  ✿ Hello! I’m Deepti, an engineering student passionate about building impactful tech solutions that blend hardware, software, and creativity. From microcontroller-based automation to AI-powered tools, my projects span embedded systems, machine learning, and Robotics. I also enjoy working with web technologies.
+  ✿ Hello! I’m Deepti, an engineering student passionate about building impactful tech solutions that blend hardware, software, and creativity. Always learning, exploring, and pushing pixels with purpose.
 </div>
 
 <br/>
 
-<!-- Contact Buttons -->
+<!-- 🌐 Contact & Portfolio Buttons -->
 <div align="center">
+
+  <!-- Gmail -->
   <a href="mailto:deeptiwakchaure@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/deepti-wakchaure-657498230" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
+  <!-- Portfolio -->
   <a href="https://dee-portfolio-dev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
+
+  <!-- Dribbble -->
+  <a href="https://dribbble.com/deeptiwakchaure" target="_blank">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
+  </a>
+
+  <!-- Behance -->
+  <a href="https://www.behance.net/deeptiwakchaure" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
+  </a>
+
+</div>
+
 </div>
 
 <br/>
