@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">
- Software Developer | UI/UX Designer | Embedded & IoT Engineer | Digital Creator
+ Software Developer | UI/UX Designer | Embedded & IoT | Digital Creator
 </h3>
 
 <div align="center">
