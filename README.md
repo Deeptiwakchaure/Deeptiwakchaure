@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">
- Software Developer | UI/UX Designer | AIML
+ Software Developer | AIML | IoT
 </h3>
 
 <div align="center">
